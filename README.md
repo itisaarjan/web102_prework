@@ -38,6 +38,8 @@ GIF created with kap
 
 Describe any challenges encountered while building the app.
 
+None
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
