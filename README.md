@@ -19,7 +19,7 @@ The following **optional** features are implemented:
 
 * [✓] List anything else that you can get done to improve the app functionality!
 
-Well, we can add some animations to the heading and stats-card and also make the website responsive to work in mobile phones.
+Well, we can add some animations to the heading and stats-card.
 
 ## Video Walkthrough
 
