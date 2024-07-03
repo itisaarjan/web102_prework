@@ -124,7 +124,7 @@ function filterFundedOnly() {
 
     // use the function we previously created to add unfunded games to the DOM
     addGamesToPage(funded_games);
-    initAnimations();
+    // initAnimations();
 }
 
 // show all games
@@ -165,7 +165,7 @@ function initAnimations() {
             start: "top 100%",
             end: "top 90%",
             scrub: true,
-            markers: true
+            // markers: true
         }
     });
 }
